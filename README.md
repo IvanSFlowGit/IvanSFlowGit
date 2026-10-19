@@ -3,7 +3,7 @@
 I help fintech, ecommerce and SaaS teams deploy **reliable, auditable AI** for payments, compliance, and operations.  
 I build LangGraph agents, Python services, and automation pipelines where **deterministic rules decide anything that touches money** and the model only drafts language.
 
-Flagship project: **[PayPilot](https://paypilot.fly.dev)** – an AI dunning agent that recovers failed subscription payments with full auditability and no PII stored.
+Flagship project: **[PayPilot](https://paypilot.fly.dev)** - an AI dunning agent that recovers failed subscription payments with full auditability and no PII stored.
 
 More work: **[streamflow.solutions](https://streamflow.solutions)**  
 Contact: [nonfungibleivan@gmail.com](mailto:nonfungibleivan@gmail.com) | [LinkedIn](https://www.linkedin.com/in/ivansflow/) | [Calendly](https://calendly.com/nonfungibleivan/30min)
@@ -25,7 +25,7 @@ My preferred pattern is simple: deterministic rules handle money, risk, and comp
 
 ## Running projects
 
-### [PayPilot – AI dunning agent for subscription billing](https://paypilot.fly.dev)
+### [PayPilot - AI dunning agent for subscription billing](https://paypilot.fly.dev)
 
 A 7‑node LangGraph agent with RAG over a dunning playbook, served through a FastAPI API and deployed on Fly.io with Docker, CI, and health checks.
 
@@ -43,7 +43,7 @@ A 7‑node LangGraph agent with RAG over a dunning playbook, served through a Fa
 
 ## Selected contributions
 
-### [LangGraph error handler matrix](https://github.com/IvanSFlowGit/langgraph-error-handler-matrix)
+### [LangGraph error handler matrix](https://github.com/IvanSFlowGit/error-policy-matrix)
 
 A reproducible test matrix isolating a defect in LangGraph’s error handling, with a negative control for every case so a pass cannot be explained by the test itself.
 
@@ -61,7 +61,7 @@ Live demo on the same deterministic‑core pattern:
 **Demo:** [aml-triage-demo.vercel.app](https://aml-triage-demo.vercel.app)  
 **Code:** [`github.com/IvanSFlowGit/aml-triage-demo`](https://github.com/IvanSFlowGit/aml-triage-demo)
 
-### Revend – revenue recovery for ecommerce
+### Revend - revenue recovery for ecommerce
 
 A revenue-recovery project for abandoned carts and post-purchase leakage:
 
